@@ -154,3 +154,31 @@
 2025-08-15 23:11:41,677 - message_handler - ERROR - Lỗi khi lấy tin nhắn Telegram: 409 Client Error: Conflict for url: https://api.telegram.org/bot8216435475:AAHGgvKc9sFSiF1ejudtBpQx-B7mP8g3muw/getUpdates?offset=725623130&timeout=30&limit=100
 2025-08-15 23:11:48,339 - message_handler - ERROR - Lỗi khi lấy tin nhắn Telegram: 409 Client Error: Conflict for url: https://api.telegram.org/bot8216435475:AAHGgvKc9sFSiF1ejudtBpQx-B7mP8g3muw/getUpdates?offset=725623130&timeout=30&limit=100
 2025-08-15 23:11:54,540 - message_handler - ERROR - Lỗi khi lấy tin nhắn Telegram: 409 Client Error: Conflict for url: https://api.telegram.org/bot8216435475:AAHGgvKc9sFSiF1ejudtBpQx-B7mP8g3muw/getUpdates?offset=725623130&timeout=30&limit=100
+2025-08-15 23:17:11,547 - config - INFO - Đã tải cấu hình từ config.json
+2025-08-15 23:17:11,547 - config - INFO - Config đã được khởi tạo
+2025-08-15 23:17:11,548 - response_templates - INFO - Đã tải 10 mẫu phản hồi từ templates.json
+2025-08-15 23:17:11,548 - response_templates - INFO - ResponseTemplates đã được khởi tạo
+2025-08-15 23:17:11,548 - message_handler - INFO - MessageHandler đã được khởi tạo
+2025-08-15 23:17:11,548 - __main__ - INFO - AutoResponder đã được khởi tạo
+2025-08-15 23:17:11,549 - __main__ - INFO - Bắt đầu máy chủ web...
+2025-08-15 23:17:11,549 - __main__ - INFO - Bắt đầu dịch vụ tự động trả lời tin nhắn
+2025-08-15 23:17:11,951 - message_handler - WARNING - Lỗi kết nối Telegram (lần thử 1): ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-15 23:17:33,179 - message_handler - ERROR - Lỗi khi lấy tin nhắn Telegram: 409 Client Error: Conflict for url: https://api.telegram.org/bot8216435475:AAHGgvKc9sFSiF1ejudtBpQx-B7mP8g3muw/getUpdates?offset=725623130&timeout=30&limit=100
+2025-08-15 23:17:38,379 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 23:17:38,380 - message_handler - INFO - Đã nhận được 1 tin nhắn Telegram mới
+2025-08-15 23:17:38,380 - __main__ - INFO - Đã nhận được 1 tin nhắn mới
+2025-08-15 23:17:39,177 - message_handler - INFO - Đã gửi tin nhắn Telegram thành công đến 5990494613
+2025-08-15 23:17:39,178 - __main__ - INFO - Đã gửi phản hồi tự động cho tin nhắn từ Ko
+2025-08-15 23:18:09,792 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 23:18:09,792 - message_handler - INFO - Đã nhận được 1 tin nhắn Telegram mới
+2025-08-15 23:18:09,793 - __main__ - INFO - Đã nhận được 1 tin nhắn mới
+2025-08-15 23:18:11,058 - message_handler - INFO - Đã gửi tin nhắn Telegram thành công đến 5990494613
+2025-08-15 23:18:11,059 - __main__ - INFO - Đã gửi phản hồi tự động cho tin nhắn từ Ko
+2025-08-15 23:18:41,448 - message_handler - WARNING - Lỗi kết nối Telegram (lần thử 1): ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-15 23:18:46,841 - message_handler - WARNING - Lỗi kết nối Telegram (lần thử 2): ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-15 23:18:56,970 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 23:18:56,970 - message_handler - INFO - Đã nhận được 1 tin nhắn Telegram mới
+2025-08-15 23:18:56,970 - __main__ - INFO - Đã nhận được 1 tin nhắn mới
+2025-08-15 23:18:57,364 - message_handler - WARNING - Lỗi kết nối khi gửi tin nhắn Telegram (lần thử 1): ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-15 23:19:00,217 - message_handler - INFO - Đã gửi tin nhắn Telegram thành công đến 5990494613
+2025-08-15 23:19:00,218 - __main__ - INFO - Đã gửi phản hồi tự động cho tin nhắn từ Ko

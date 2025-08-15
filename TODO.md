@@ -1,0 +1,6 @@
+- [x] Install Flask
+- [x] Verify Flask installation
+- [x] Resolve "Import "flask" could not be resolved"
+- [x] Run the program
+- [ ] Examine offline auto-responder code
+- [x] Examine web server code for configuration interface

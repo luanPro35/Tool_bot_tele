@@ -1,0 +1,164 @@
+{
+  "is_offline": true,
+  "offline_start_time": "2025-08-15T22:42:39.669767",
+  "last_activity_time": "2025-08-15T22:42:39.669769",
+  "user_response_count": {
+    "5990494613": 3
+  },
+  "pending_messages": [
+    {
+      "platform": "telegram",
+      "chat_id": 5990494613,
+      "user_id": 5990494613,
+      "sender": "Ko",
+      "content": "/start",
+      "timestamp": "2025-08-15T22:34:08",
+      "message_id": 21,
+      "received_at": "2025-08-15T22:42:40.327280",
+      "auto_responded": true
+    },
+    {
+      "platform": "telegram",
+      "chat_id": 5990494613,
+      "user_id": 5990494613,
+      "sender": "Ko",
+      "content": "chào",
+      "timestamp": "2025-08-15T22:43:12",
+      "message_id": 23,
+      "received_at": "2025-08-15T22:44:02.472786",
+      "auto_responded": true
+    },
+    {
+      "platform": "telegram",
+      "chat_id": 5990494613,
+      "user_id": 5990494613,
+      "sender": "Ko",
+      "content": "chào",
+      "timestamp": "2025-08-15T22:43:17",
+      "message_id": 24,
+      "received_at": "2025-08-15T22:44:02.873391",
+      "auto_responded": true
+    },
+    {
+      "platform": "telegram",
+      "chat_id": 5990494613,
+      "user_id": 5990494613,
+      "sender": "Ko",
+      "content": "chào",
+      "timestamp": "2025-08-15T22:43:18",
+      "message_id": 25,
+      "received_at": "2025-08-15T22:44:03.264617",
+      "auto_responded": true
+    },
+    {
+      "platform": "telegram",
+      "chat_id": 5990494613,
+      "user_id": 5990494613,
+      "sender": "Ko",
+      "content": "cahof",
+      "timestamp": "2025-08-15T22:43:19",
+      "message_id": 26,
+      "received_at": "2025-08-15T22:44:03.659601",
+      "auto_responded": true
+    },
+    {
+      "platform": "telegram",
+      "chat_id": 5990494613,
+      "user_id": 5990494613,
+      "sender": "Ko",
+      "content": "chào",
+      "timestamp": "2025-08-15T22:43:20",
+      "message_id": 27,
+      "received_at": "2025-08-15T22:44:03.659997",
+      "auto_responded": true
+    },
+    {
+      "platform": "telegram",
+      "chat_id": 5990494613,
+      "user_id": 5990494613,
+      "sender": "Ko",
+      "content": "/start",
+      "timestamp": "2025-08-15T22:43:25",
+      "message_id": 28,
+      "received_at": "2025-08-15T22:44:03.660354",
+      "auto_responded": true
+    },
+    {
+      "platform": "telegram",
+      "chat_id": 5990494613,
+      "user_id": 5990494613,
+      "sender": "Ko",
+      "content": "/start",
+      "timestamp": "2025-08-15T22:43:37",
+      "message_id": 29,
+      "received_at": "2025-08-15T22:44:03.660731",
+      "auto_responded": true
+    },
+    {
+      "platform": "telegram",
+      "chat_id": 5990494613,
+      "user_id": 5990494613,
+      "sender": "Ko",
+      "content": "/start",
+      "timestamp": "2025-08-15T22:44:11",
+      "message_id": 33,
+      "received_at": "2025-08-15T22:44:13.259568",
+      "auto_responded": true
+    },
+    {
+      "platform": "telegram",
+      "chat_id": 5990494613,
+      "user_id": 5990494613,
+      "sender": "Ko",
+      "content": "/start",
+      "timestamp": "2025-08-15T22:44:22",
+      "message_id": 34,
+      "received_at": "2025-08-15T22:44:26.090258",
+      "auto_responded": true
+    },
+    {
+      "platform": "telegram",
+      "chat_id": 5990494613,
+      "user_id": 5990494613,
+      "sender": "Ko",
+      "content": "/start",
+      "timestamp": "2025-08-15T22:49:44",
+      "message_id": 35,
+      "received_at": "2025-08-15T22:49:47.638867",
+      "auto_responded": true
+    },
+    {
+      "platform": "telegram",
+      "chat_id": 5990494613,
+      "user_id": 5990494613,
+      "sender": "Ko",
+      "content": "chào",
+      "timestamp": "2025-08-15T22:49:54",
+      "message_id": 37,
+      "received_at": "2025-08-15T22:49:57.251061",
+      "auto_responded": true
+    },
+    {
+      "platform": "telegram",
+      "chat_id": 5990494613,
+      "user_id": 5990494613,
+      "sender": "Ko",
+      "content": "2",
+      "timestamp": "2025-08-15T22:50:05",
+      "message_id": 39,
+      "received_at": "2025-08-15T22:50:06.849650",
+      "auto_responded": true
+    },
+    {
+      "platform": "telegram",
+      "chat_id": 5990494613,
+      "user_id": 5990494613,
+      "sender": "Ko",
+      "content": "a;p",
+      "timestamp": "2025-08-15T22:50:15",
+      "message_id": 40,
+      "received_at": "2025-08-15T22:50:19.653022",
+      "auto_responded": true
+    }
+  ]
+}

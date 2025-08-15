@@ -1,0 +1,156 @@
+2025-08-15 21:49:06,683 - config - INFO - Đã tải cấu hình từ config.json
+2025-08-15 21:49:06,684 - config - INFO - Config đã được khởi tạo
+2025-08-15 21:49:06,684 - response_templates - INFO - Đã tải 4 mẫu phản hồi từ templates.json
+2025-08-15 21:49:06,684 - response_templates - INFO - ResponseTemplates đã được khởi tạo
+2025-08-15 21:49:06,685 - message_handler - INFO - MessageHandler đã được khởi tạo
+2025-08-15 21:49:06,685 - __main__ - INFO - AutoResponder đã được khởi tạo
+2025-08-15 21:49:06,685 - __main__ - INFO - Bắt đầu máy chủ web...
+2025-08-15 21:49:06,685 - __main__ - INFO - Bắt đầu dịch vụ tự động trả lời tin nhắn
+2025-08-15 21:49:06,686 - message_handler - INFO - Kiểm tra email mới
+2025-08-15 21:49:07,375 - __main__ - INFO - Đã nhận được 3 tin nhắn mới
+2025-08-15 21:51:06,835 - __main__ - INFO - Dịch vụ đã bị dừng bởi người dùng
+2025-08-15 21:51:06,835 - __main__ - INFO - Dịch vụ tự động trả lời tin nhắn đã dừng
+2025-08-15 21:51:34,861 - config - INFO - Đã tải cấu hình từ config.json
+2025-08-15 21:51:34,862 - config - INFO - Config đã được khởi tạo
+2025-08-15 21:51:34,862 - response_templates - INFO - Đã tải 4 mẫu phản hồi từ templates.json
+2025-08-15 21:51:34,862 - response_templates - INFO - ResponseTemplates đã được khởi tạo
+2025-08-15 21:51:34,862 - message_handler - INFO - MessageHandler đã được khởi tạo
+2025-08-15 21:51:34,863 - __main__ - INFO - AutoResponder đã được khởi tạo
+2025-08-15 21:51:34,863 - __main__ - INFO - Bắt đầu máy chủ web...
+2025-08-15 21:51:34,863 - __main__ - INFO - Bắt đầu dịch vụ tự động trả lời tin nhắn
+2025-08-15 21:51:34,865 - message_handler - INFO - Kiểm tra email mới
+2025-08-15 21:51:35,320 - message_handler - ERROR - Lỗi khi lấy tin nhắn Telegram: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-15 21:55:41,972 - config - INFO - Đã tải cấu hình từ config.json
+2025-08-15 21:55:41,972 - config - INFO - Config đã được khởi tạo
+2025-08-15 21:55:41,973 - response_templates - INFO - Đã tải 4 mẫu phản hồi từ templates.json
+2025-08-15 21:55:41,973 - response_templates - INFO - ResponseTemplates đã được khởi tạo
+2025-08-15 21:55:41,973 - message_handler - INFO - MessageHandler đã được khởi tạo
+2025-08-15 21:55:41,973 - __main__ - INFO - AutoResponder đã được khởi tạo
+2025-08-15 21:55:41,974 - __main__ - INFO - Bắt đầu máy chủ web...
+2025-08-15 21:55:41,974 - __main__ - INFO - Bắt đầu dịch vụ tự động trả lời tin nhắn
+2025-08-15 21:55:41,974 - message_handler - INFO - Kiểm tra email mới
+2025-08-15 21:55:42,409 - message_handler - ERROR - Lỗi khi lấy tin nhắn Telegram: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-15 22:00:42,410 - message_handler - INFO - Kiểm tra email mới
+2025-08-15 22:00:43,064 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:00:43,065 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:00:43,066 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:00:43,066 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:00:43,067 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:00:43,068 - __main__ - INFO - Đã nhận được 5 tin nhắn mới
+2025-08-15 22:05:43,069 - message_handler - INFO - Kiểm tra email mới
+2025-08-15 22:05:43,571 - message_handler - ERROR - Lỗi khi lấy tin nhắn Telegram: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-15 22:10:43,571 - message_handler - INFO - Kiểm tra email mới
+2025-08-15 22:10:44,244 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:10:44,247 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:10:44,247 - __main__ - INFO - Đã nhận được 2 tin nhắn mới
+2025-08-15 22:15:44,248 - message_handler - INFO - Kiểm tra email mới
+2025-08-15 22:19:08,966 - __main__ - INFO - Dịch vụ đã bị dừng bởi người dùng
+2025-08-15 22:19:08,966 - __main__ - INFO - Dịch vụ tự động trả lời tin nhắn đã dừng
+2025-08-15 22:19:44,461 - config - INFO - Đã tải cấu hình từ config.json
+2025-08-15 22:19:44,462 - config - INFO - Config đã được khởi tạo
+2025-08-15 22:19:44,462 - response_templates - INFO - Đã tải 4 mẫu phản hồi từ templates.json
+2025-08-15 22:19:44,462 - response_templates - INFO - ResponseTemplates đã được khởi tạo
+2025-08-15 22:19:44,462 - message_handler - INFO - MessageHandler đã được khởi tạo
+2025-08-15 22:19:44,462 - __main__ - INFO - AutoResponder đã được khởi tạo
+2025-08-15 22:19:44,463 - __main__ - INFO - Bắt đầu máy chủ web...
+2025-08-15 22:19:44,463 - __main__ - INFO - Bắt đầu dịch vụ tự động trả lời tin nhắn
+2025-08-15 22:19:44,463 - message_handler - INFO - Kiểm tra email mới
+2025-08-15 22:19:45,128 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:19:45,129 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:19:45,129 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:19:45,130 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:19:45,130 - __main__ - INFO - Đã nhận được 4 tin nhắn mới
+2025-08-15 22:24:45,130 - message_handler - INFO - Kiểm tra email mới
+2025-08-15 22:24:45,658 - message_handler - ERROR - Lỗi khi lấy tin nhắn Telegram: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-15 22:29:45,659 - message_handler - INFO - Kiểm tra email mới
+2025-08-15 22:29:46,297 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:29:46,297 - __main__ - INFO - Đã nhận được 1 tin nhắn mới
+2025-08-15 22:31:03,341 - config - INFO - Đã tải cấu hình từ config.json
+2025-08-15 22:31:03,341 - config - INFO - Config đã được khởi tạo
+2025-08-15 22:31:03,342 - response_templates - INFO - Đã tải 4 mẫu phản hồi từ templates.json
+2025-08-15 22:31:03,342 - response_templates - INFO - ResponseTemplates đã được khởi tạo
+2025-08-15 22:31:03,342 - message_handler - INFO - MessageHandler đã được khởi tạo
+2025-08-15 22:31:03,342 - __main__ - INFO - AutoResponder đã được khởi tạo
+2025-08-15 22:31:03,343 - __main__ - INFO - Bắt đầu máy chủ web...
+2025-08-15 22:31:03,343 - __main__ - INFO - Bắt đầu dịch vụ tự động trả lời tin nhắn
+2025-08-15 22:31:03,843 - message_handler - WARNING - Lỗi kết nối Telegram (lần thử 1): ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-15 22:42:39,668 - config - INFO - Đã tải cấu hình từ config.json
+2025-08-15 22:42:39,668 - config - INFO - Config đã được khởi tạo
+2025-08-15 22:42:39,669 - response_templates - INFO - Đã tải 10 mẫu phản hồi từ templates.json
+2025-08-15 22:42:39,669 - response_templates - INFO - ResponseTemplates đã được khởi tạo
+2025-08-15 22:42:39,669 - offline_auto_responder - INFO - OfflineAutoResponder đã được khởi tạo
+2025-08-15 22:42:39,670 - offline_auto_responder - INFO - Bắt đầu chạy Offline Auto Responder...
+2025-08-15 22:42:39,670 - offline_auto_responder - INFO - Trạng thái hiện tại: OFFLINE
+2025-08-15 22:42:40,327 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:44:01,798 - config - INFO - Đã tải cấu hình từ config.json
+2025-08-15 22:44:01,799 - config - INFO - Config đã được khởi tạo
+2025-08-15 22:44:01,799 - response_templates - INFO - Đã tải 10 mẫu phản hồi từ templates.json
+2025-08-15 22:44:01,800 - response_templates - INFO - ResponseTemplates đã được khởi tạo
+2025-08-15 22:44:01,800 - offline_auto_responder - INFO - Đã load trạng thái từ file
+2025-08-15 22:44:01,800 - offline_auto_responder - INFO - OfflineAutoResponder đã được khởi tạo
+2025-08-15 22:44:01,801 - offline_auto_responder - INFO - Bắt đầu chạy Offline Auto Responder...
+2025-08-15 22:44:01,801 - offline_auto_responder - INFO - Trạng thái hiện tại: OFFLINE
+2025-08-15 22:44:02,469 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:44:02,470 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:44:02,470 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:44:02,471 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:44:02,471 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:44:02,472 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:44:02,472 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:44:02,872 - offline_auto_responder - INFO - Đã gửi auto-response đến 5990494613
+2025-08-15 22:44:02,873 - offline_auto_responder - INFO - Đã auto-respond cho user 5990494613 (lần 1)
+2025-08-15 22:44:03,263 - offline_auto_responder - INFO - Đã gửi auto-response đến 5990494613
+2025-08-15 22:44:03,264 - offline_auto_responder - INFO - Đã auto-respond cho user 5990494613 (lần 2)
+2025-08-15 22:44:03,658 - offline_auto_responder - INFO - Đã gửi auto-response đến 5990494613
+2025-08-15 22:44:03,659 - offline_auto_responder - INFO - Đã auto-respond cho user 5990494613 (lần 3)
+2025-08-15 22:44:13,259 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:44:26,089 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:49:47,638 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:49:57,250 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:50:06,849 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:50:19,652 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 23:07:55,250 - config - INFO - Đã tải cấu hình từ config.json
+2025-08-15 23:07:55,250 - config - INFO - Config đã được khởi tạo
+2025-08-15 23:07:55,251 - response_templates - INFO - Đã tải 10 mẫu phản hồi từ templates.json
+2025-08-15 23:07:55,251 - response_templates - INFO - ResponseTemplates đã được khởi tạo
+2025-08-15 23:07:55,251 - message_handler - INFO - MessageHandler đã được khởi tạo
+2025-08-15 23:07:55,251 - __main__ - INFO - AutoResponder đã được khởi tạo
+2025-08-15 23:07:55,252 - __main__ - INFO - Bắt đầu máy chủ web...
+2025-08-15 23:07:55,252 - __main__ - INFO - Bắt đầu dịch vụ tự động trả lời tin nhắn
+2025-08-15 23:07:55,657 - message_handler - WARNING - Lỗi kết nối Telegram (lần thử 1): ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-15 23:08:01,257 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 23:08:01,257 - message_handler - INFO - Đã nhận được 1 tin nhắn Telegram mới
+2025-08-15 23:08:01,257 - __main__ - INFO - Đã nhận được 1 tin nhắn mới
+2025-08-15 23:10:00,764 - config - INFO - Đã tải cấu hình từ config.json
+2025-08-15 23:10:00,764 - config - INFO - Config đã được khởi tạo
+2025-08-15 23:10:00,764 - response_templates - INFO - Đã tải 10 mẫu phản hồi từ templates.json
+2025-08-15 23:10:00,764 - response_templates - INFO - ResponseTemplates đã được khởi tạo
+2025-08-15 23:10:00,764 - message_handler - INFO - MessageHandler đã được khởi tạo
+2025-08-15 23:10:00,765 - __main__ - INFO - AutoResponder đã được khởi tạo
+2025-08-15 23:10:00,765 - __main__ - INFO - Bắt đầu máy chủ web...
+2025-08-15 23:10:00,765 - __main__ - INFO - Bắt đầu dịch vụ tự động trả lời tin nhắn
+2025-08-15 23:10:10,002 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 23:10:10,002 - message_handler - INFO - Đã nhận được 1 tin nhắn Telegram mới
+2025-08-15 23:10:10,003 - __main__ - INFO - Đã nhận được 1 tin nhắn mới
+2025-08-15 23:10:10,393 - message_handler - WARNING - Lỗi kết nối khi gửi tin nhắn Telegram (lần thử 1): ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-15 23:10:13,215 - message_handler - INFO - Đã gửi tin nhắn Telegram thành công đến 5990494613
+2025-08-15 23:10:13,215 - __main__ - INFO - Đã gửi phản hồi tự động cho tin nhắn từ Ko
+2025-08-15 23:10:43,615 - message_handler - WARNING - Lỗi kết nối Telegram (lần thử 1): ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-15 23:10:49,009 - message_handler - WARNING - Lỗi kết nối Telegram (lần thử 2): ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-15 23:10:54,631 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 23:10:54,631 - message_handler - INFO - Đã nhận được 1 tin nhắn Telegram mới
+2025-08-15 23:10:54,632 - __main__ - INFO - Đã nhận được 1 tin nhắn mới
+2025-08-15 23:10:55,467 - message_handler - INFO - Đã gửi tin nhắn Telegram thành công đến 5990494613
+2025-08-15 23:10:55,467 - __main__ - INFO - Đã gửi phản hồi tự động cho tin nhắn từ Ko
+2025-08-15 23:11:34,711 - config - INFO - Đã tải cấu hình từ config.json
+2025-08-15 23:11:34,711 - config - INFO - Config đã được khởi tạo
+2025-08-15 23:11:34,712 - response_templates - INFO - Đã tải 10 mẫu phản hồi từ templates.json
+2025-08-15 23:11:34,712 - response_templates - INFO - ResponseTemplates đã được khởi tạo
+2025-08-15 23:11:34,712 - offline_auto_responder - INFO - Đã load trạng thái từ file
+2025-08-15 23:11:34,713 - offline_auto_responder - INFO - OfflineAutoResponder đã được khởi tạo
+2025-08-15 23:11:34,714 - offline_auto_responder - INFO - Bắt đầu chạy Offline Auto Responder...
+2025-08-15 23:11:34,714 - offline_auto_responder - INFO - Trạng thái hiện tại: OFFLINE
+2025-08-15 23:11:35,117 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /bot8216435475:AAHGgvKc9sFSiF1ejudtBpQx-B7mP8g3muw/getUpdates?offset=725623130&limit=10&timeout=0
+2025-08-15 23:11:41,677 - message_handler - ERROR - Lỗi khi lấy tin nhắn Telegram: 409 Client Error: Conflict for url: https://api.telegram.org/bot8216435475:AAHGgvKc9sFSiF1ejudtBpQx-B7mP8g3muw/getUpdates?offset=725623130&timeout=30&limit=100
+2025-08-15 23:11:48,339 - message_handler - ERROR - Lỗi khi lấy tin nhắn Telegram: 409 Client Error: Conflict for url: https://api.telegram.org/bot8216435475:AAHGgvKc9sFSiF1ejudtBpQx-B7mP8g3muw/getUpdates?offset=725623130&timeout=30&limit=100
+2025-08-15 23:11:54,540 - message_handler - ERROR - Lỗi khi lấy tin nhắn Telegram: 409 Client Error: Conflict for url: https://api.telegram.org/bot8216435475:AAHGgvKc9sFSiF1ejudtBpQx-B7mP8g3muw/getUpdates?offset=725623130&timeout=30&limit=100

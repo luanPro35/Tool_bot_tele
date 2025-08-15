@@ -1,0 +1,20 @@
+2025-08-15 22:54:55,352 - INFO - 🚀 Background Responder đã khởi động
+2025-08-15 22:54:55,352 - INFO - 📱 Token: ...B7mP8g3muw
+2025-08-15 22:54:55,352 - INFO - ⏰ Kiểm tra mỗi 15 giây
+2025-08-15 22:54:56,369 - ERROR - Lỗi khi gửi tin nhắn: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-15 22:54:56,369 - ERROR - ❌ Không thể gửi tin nhắn cho Ko Tên
+2025-08-15 22:54:57,167 - INFO - ✅ Đã trả lời tự động cho Ko Tên (ID: 5990494613)
+2025-08-15 22:54:57,983 - INFO - ✅ Đã trả lời tự động cho Ko Tên (ID: 5990494613)
+2025-08-15 22:54:58,820 - INFO - ✅ Đã trả lời tự động cho Ko Tên (ID: 5990494613)
+2025-08-15 22:55:15,273 - INFO - ✅ Đã trả lời tự động cho Ko Tên (ID: 5990494613)
+2025-08-15 22:55:31,771 - INFO - ✅ Đã trả lời tự động cho Ko Tên (ID: 5990494613)
+2025-08-15 22:55:32,165 - ERROR - Lỗi khi gửi tin nhắn: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-15 22:55:32,165 - ERROR - ❌ Không thể gửi tin nhắn cho Ko Tên
+2025-08-15 22:55:33,010 - INFO - ✅ Đã trả lời tự động cho Ko Tên (ID: 5990494613)
+2025-08-15 22:55:49,515 - INFO - ✅ Đã trả lời tự động cho Ko Tên (ID: 5990494613)
+2025-08-15 22:57:22,858 - INFO - ✅ Đã trả lời tự động cho Ko Tên (ID: 5990494613)
+2025-08-15 22:58:03,894 - ERROR - Lỗi khi lấy tin nhắn: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-15 22:59:10,539 - ERROR - Lỗi khi lấy tin nhắn: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-15 22:59:52,678 - INFO - ✅ Đã trả lời tự động cho Ko Tên (ID: 5990494613)
+2025-08-15 23:00:08,077 - ERROR - Lỗi khi lấy tin nhắn: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-15 23:00:23,485 - ERROR - Lỗi khi lấy tin nhắn: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))

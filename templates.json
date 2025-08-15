@@ -1,0 +1,42 @@
+{
+    "default": {
+        "subject": "Tin nhắn tự động từ Bot",
+        "body": "Chào bạn {sender_name}, cảm ơn bạn đã nhắn tin! Chúng tôi đã nhận được tin nhắn của bạn và sẽ trả lời sớm nhất có thể. Chúc bạn một ngày tốt lành!"
+    },
+    "welcome": {
+        "subject": "Chào mừng bạn đến với chúng tôi!",
+        "body": "Chào {sender_name}! Cảm ơn bạn đã liên hệ. Chúng tôi rất vui khi nhận được tin nhắn của bạn và sẽ sớm liên lạc lại."
+    },
+    "out_of_office": {
+        "subject": "Thông báo ngoài giờ làm việc",
+        "body": "Chào {sender_name}, cảm ơn bạn đã nhắn tin. Hiện tại chúng tôi đang ngoài giờ làm việc, nhưng chúng tôi sẽ trả lời bạn ngay khi quay lại. Cảm ơn sự kiên nhẫn của bạn!"
+    },
+    "business_hours": {
+        "subject": "Giờ làm việc của chúng tôi",
+        "body": "Chào {sender_name}! Giờ làm việc của chúng tôi là từ 9:00 sáng đến 5:00 chiều, từ Thứ Hai đến Thứ Sáu. Chúng tôi sẽ sớm trả lời tin nhắn của bạn."
+    },
+    "default_offline": {
+        "subject": "Phản hồi tự động - Đang offline",
+        "body": "🤖 Xin chào {sender_name}!\n\nCảm ơn bạn đã nhắn tin! Tôi hiện đang offline và không thể trả lời ngay lúc này.\n\n📝 Tin nhắn của bạn đã được ghi nhận và tôi sẽ phản hồi sớm nhất có thể khi online trở lại.\n\n🕐 Thời gian hiện tại: {current_time} - {current_date}"
+    },
+    "welcome_offline": {
+        "subject": "Chào mừng - Đang offline",
+        "body": "👋 Xin chào {sender_name}!\n\nRất vui được gặp bạn! Tuy nhiên tôi hiện đang offline.\n\n💬 Bạn có thể để lại tin nhắn và tôi sẽ trả lời ngay khi có thể.\n\n✨ Cảm ơn bạn đã kiên nhẫn chờ đợi!"
+    },
+    "urgent_response": {
+        "subject": "Phản hồi khẩn cấp - Offline",
+        "body": "🚨 Chào {sender_name}!\n\nTôi nhận thấy tin nhắn của bạn có tính chất khẩn cấp. Tuy nhiên tôi hiện đang offline.\n\n📞 Nếu đây là vấn đề thực sự khẩn cấp, vui lòng:\n- Gọi điện trực tiếp: [SỐ ĐIỆN THOẠI]\n- Hoặc liên hệ email: [EMAIL]\n\n⚡ Tôi sẽ ưu tiên phản hồi tin nhắn này khi online!"
+    },
+    "price_inquiry": {
+        "subject": "Hỏi giá - Đang offline",
+        "body": "💰 Chào {sender_name}!\n\nCảm ơn bạn quan tâm đến sản phẩm/dịch vụ của chúng tôi!\n\n📋 Tôi hiện đang offline nhưng sẽ gửi bảng giá chi tiết và tư vấn cho bạn ngay khi có thể.\n\n🎯 Trong thời gian chờ đợi, bạn có thể xem thêm thông tin tại: [WEBSITE/CATALOG]\n\n💬 Cảm ơn sự kiên nhẫn của bạn!"
+    },
+    "sales_offline": {
+        "subject": "Đặt hàng - Đang offline",
+        "body": "🛒 Chào {sender_name}!\n\nCảm ơn bạn muốn đặt hàng! Tôi hiện đang offline.\n\n📦 Để đảm bảo đơn hàng được xử lý chính xác, tôi sẽ liên hệ xác nhận với bạn ngay khi online.\n\n✅ Vui lòng cung cấp:\n- Sản phẩm muốn mua\n- Số lượng\n- Địa chỉ giao hàng\n\n🚀 Cảm ơn bạn đã tin tưởng!"
+    },
+    "support_offline": {
+        "subject": "Hỗ trợ - Đang offline",
+        "body": "🔧 Chào {sender_name}!\n\nTôi hiểu bạn cần hỗ trợ. Tuy nhiên tôi hiện đang offline.\n\n📝 Để tôi có thể hỗ trợ bạn tốt nhất, vui lòng mô tả chi tiết vấn đề:\n- Vấn đề gặp phải\n- Các bước đã thử\n- Thông tin thiết bị/hệ thống\n\n⚡ Tôi sẽ ưu tiên giải quyết vấn đề của bạn khi online!\n\n🆘 Nếu khẩn cấp, liên hệ: [SỐ ĐIỆN THOẠI]"
+    }
+}

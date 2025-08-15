@@ -1,0 +1,51 @@
+{
+    "app": {
+        "name": "Auto Responder",
+        "version": "1.0.0",
+        "log_level": "INFO",
+        "check_interval": 300,
+        "auto_start": true
+    },
+    "platforms": {
+        "email": {
+            "enabled": false,
+            "check_interval": 300
+        },
+        "telegram": {
+            "enabled": true,
+            "check_interval": 30,
+            "long_polling": true,
+            "timeout": 30,
+            "retry_attempts": 3,
+            "retry_delay": 5
+        }
+    },
+    "credentials": {
+        "email": {
+            "username": "your_email@example.com",
+            "password": "your_password",
+            "imap_server": "imap.example.com",
+            "imap_port": 993,
+            "smtp_server": "smtp.example.com",
+            "smtp_port": 587
+        },
+        "telegram": {
+            "token": "8216435475:AAHGgvKc9sFSiF1ejudtBpQx-B7mP8g3muw",
+            "allowed_users": []
+        }
+    },
+    "excluded_senders": [
+        "noreply@example.com",
+        "newsletter@example.com"
+    ],
+    "keyword_template_mapping": {
+        "help": "support_ticket",
+        "hours": "business_hours",
+        "vacation": "out_of_office",
+        "hello": "welcome",
+        "buy": "sales_inquiry"
+    },
+    "telegram": {
+        "last_update_id": 725623129
+    }
+}

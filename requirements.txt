@@ -1,0 +1,9 @@
+# Các thư viện cần thiết cho Auto Responder (phiên bản đơn giản)
+
+# Thư viện cơ bản
+python-dotenv>=0.19.0  # Để quản lý biến môi trường
+python-telegram-bot>=13.7  # Để tích hợp với Telegram
+requests>=2.26.0 # Để thực hiện các yêu cầu HTTP
+
+# Chỉ sử dụng các thư viện tiêu chuẩn của Python khi có thể
+# Các thư viện bổ sung có thể được cài đặt tùy theo nhu cầu

@@ -1,0 +1,6 @@
+{
+  "telegram_token": "8216435475:AAHGgvKc9sFSiF1ejudtBpQx-B7mP8g3muw",
+  "check_interval": 15,
+  "auto_offline_message": "🤖 Chào {name}!\n\nCảm ơn bạn đã nhắn tin! Tôi hiện không có mặt và không thể trả lời ngay.\n\n💬 Tin nhắn của bạn đã được ghi nhận, tôi sẽ phản hồi sớm nhất có thể.\n\n🙏 Cảm ơn sự kiên nhẫn của bạn!",
+  "enabled": true
+}

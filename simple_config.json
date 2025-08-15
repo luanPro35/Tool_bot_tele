@@ -1,0 +1,8 @@
+{
+  "telegram_token": "8216435475:AAHGgvKc9sFSiF1ejudtBpQx-B7mP8g3muw",
+  "check_interval": 10,
+  "messages": {
+    "offline": "🤖 Chào {name}!\n\nCảm ơn bạn đã nhắn tin! Tôi hiện đang offline và không thể trả lời ngay.\n\n💬 Vui lòng để lại tin nhắn, tôi sẽ phản hồi sớm nhất có thể khi online trở lại.\n\n🙏 Cảm ơn sự kiên nhẫn của bạn!",
+    "online": "👋 Chào {name}!\n\nCảm ơn bạn đã nhắn tin! Tôi đã nhận được tin nhắn của bạn.\n\n⏰ Tôi sẽ trả lời bạn trong vòng 2-3 phút.\n\n😊 Cảm ơn bạn đã chờ đợi!"
+  }
+}

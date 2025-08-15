@@ -1,0 +1,8 @@
+2025-08-15 22:49:37,544 - INFO - 🚀 Bắt đầu Simple Auto Responder
+2025-08-15 22:49:37,545 - INFO - 📱 Token: ...B7mP8g3muw
+2025-08-15 22:49:37,545 - INFO - 🔄 Trạng thái: OFFLINE
+2025-08-15 22:49:46,074 - INFO - ✅ Đã trả lời Ko Tên (ID: 5990494613)
+2025-08-15 22:49:57,539 - INFO - ✅ Đã trả lời Ko Tên (ID: 5990494613)
+2025-08-15 22:50:08,543 - ERROR - Lỗi khi gửi tin nhắn: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-08-15 22:50:08,543 - ERROR - ❌ Không thể gửi tin nhắn cho Ko Tên
+2025-08-15 22:50:19,956 - INFO - ✅ Đã trả lời Ko Tên (ID: 5990494613)

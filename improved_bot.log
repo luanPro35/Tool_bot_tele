@@ -1,0 +1,16 @@
+2025-08-15 22:32:52,587 - config - INFO - Đã tải cấu hình từ config.json
+2025-08-15 22:32:52,587 - config - INFO - Config đã được khởi tạo
+2025-08-15 22:32:52,588 - response_templates - INFO - Đã tải 4 mẫu phản hồi từ templates.json
+2025-08-15 22:32:52,588 - response_templates - INFO - ResponseTemplates đã được khởi tạo
+2025-08-15 22:32:52,588 - __main__ - INFO - ImprovedTelegramBot đã được khởi tạo
+2025-08-15 22:32:52,589 - __main__ - INFO - Bắt đầu chạy bot...
+2025-08-15 22:32:53,214 - __main__ - INFO - Bot đã kết nối: @quangluan_bot
+2025-08-15 22:33:08,633 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:33:08,633 - __main__ - INFO - Nhận được 1 tin nhắn mới
+2025-08-15 22:33:09,027 - __main__ - INFO - Đã gửi tin nhắn thành công đến 5990494613
+2025-08-15 22:33:14,838 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:33:14,838 - __main__ - INFO - Nhận được 1 tin nhắn mới
+2025-08-15 22:33:15,242 - __main__ - INFO - Đã gửi tin nhắn thành công đến 5990494613
+2025-08-15 22:33:17,440 - config - INFO - Đã lưu cấu hình vào config.json
+2025-08-15 22:33:17,440 - __main__ - INFO - Nhận được 1 tin nhắn mới
+2025-08-15 22:33:17,907 - __main__ - INFO - Đã gửi tin nhắn thành công đến 5990494613
